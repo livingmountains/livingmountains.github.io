@@ -110,12 +110,14 @@ a > .fa {
 #logo {
     height: 56px;
     width: auto;
+    max-width: 100%;
     margin: 2px 0 8px 0;
 }
 
 #footer-logo {
     height: 64px;
     width: auto;
+    max-width: 100%;
     margin-bottom: 0.5em;
 }
 
@@ -440,11 +442,3 @@ svg {
     font-size: 0.95rem;
     margin: 0.4em 0 1em;
 }
-
-.site-tagline {
-    font-size: 1.15rem;
-    font-style: italic;
-    color: #2c5f7c;
-    margin: 0.2em 0 0.8em;
-}
-
