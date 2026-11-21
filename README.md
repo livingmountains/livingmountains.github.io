@@ -1,6 +1,6 @@
-# Living Mountains Lab Website
+# Living Mountains Group Website
 
-Website of Living Mountains Lab (formerly the Mountain Hydrology Group), an independent research collective
+Website of the Living Mountains Group (formerly the Mountain Hydrology Group), an independent research collective
 working on hydrology and natural hazards in mountain regions.
 
 Built with [Jekyll](https://jekyllrb.com/) on the

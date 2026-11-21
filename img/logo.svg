@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 56" role="img" aria-label="Living Mountains Lab">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 56" role="img" aria-label="Living Mountains Group">
   <g>
     <!-- back peak -->
     <path d="M8 40 L26 12 L38 30 L44 22 L58 40 Z" fill="#7da7c4"/>
@@ -11,5 +11,5 @@
     <path d="M12 52 q6 -4 12 0 t12 0 t12 0" stroke="#7da7c4" stroke-width="2" fill="none" stroke-linecap="round"/>
   </g>
   <text x="68" y="26" font-family="Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#2c5f7c">Living Mountains</text>
-  <text x="68" y="48" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="400" letter-spacing="6" fill="#3d8bb5">LAB</text>
+  <text x="68" y="48" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="400" letter-spacing="6" fill="#3d8bb5">GROUP</text>
 </svg>

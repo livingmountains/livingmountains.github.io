@@ -1,4 +1,4 @@
-# Living Mountains Lab members.
+# Living Mountains Group members.
 # Fields: display_name, role (member), bio (affiliation), image, webpage,
 #         linkedin, scholar, github.
 # Keys are referenced from _projects/*.md people lists.
