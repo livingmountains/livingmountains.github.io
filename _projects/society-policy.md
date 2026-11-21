@@ -13,7 +13,7 @@ people:
   - biplav-khatri
   - manish-gouli
 icon: users
-image: /img/research/society-policy.svg
+image: /img/research/society-policy.jpg
 layout: project
 last-updated: 2026-07-01
 no-link: true

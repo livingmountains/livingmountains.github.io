@@ -15,7 +15,7 @@ people:
   - atharva-gupta
   - rocky-talchabhadel
 icon: tint
-image: /img/research/water.svg
+image: /img/research/water.jpg
 layout: project
 last-updated: 2026-07-04
 no-link: true

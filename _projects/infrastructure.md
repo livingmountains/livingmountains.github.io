@@ -13,7 +13,7 @@ people:
   - unisha-ghimire
   - somnath-bera
 icon: building
-image: /img/research/infrastructure.svg
+image: /img/research/infrastructure.jpg
 layout: project
 last-updated: 2026-07-02
 no-link: true

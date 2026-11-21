@@ -17,7 +17,7 @@ people:
   - shikshita-bhandari
   - yogesh-bhattarai
 icon: exclamation-triangle
-image: /img/research/hazards.svg
+image: /img/research/hazards.jpg
 layout: project
 last-updated: 2026-07-03
 no-link: true
