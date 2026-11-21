@@ -1,6 +1,6 @@
-# Mountain Hydrology Group Website
+# Living Mountains Lab Website
 
-Website of the Mountain Hydrology Group, an independent research collective
+Website of Living Mountains Lab (formerly the Mountain Hydrology Group), an independent research collective
 working on hydrology and natural hazards in mountain regions.
 
 Built with [Jekyll](https://jekyllrb.com/) on the
@@ -42,7 +42,7 @@ enables Pages). Manual steps:
 2. Push this folder to it (`main` branch).
 3. In the repository: Settings > Pages > Source: "Deploy from a branch",
    Branch: `main`, folder `/ (root)`.
-4. The site appears at https://geokshitij.github.io/mhydro/
+4. The site appears at https://livingmountains.github.io/ (repository livingmountains/livingmountains.github.io). The old address geokshitij.github.io/mhydro forwards here.
 
 To move to a cleaner URL later, create a GitHub organization (for example
 `mountainhydrology`), push to a repo named `mountainhydrology.github.io`,

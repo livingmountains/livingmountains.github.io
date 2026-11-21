@@ -4,7 +4,7 @@
 # Block fields:
 #   title:   heading of the block
 #   date:    YYYY-MM-DD (optional). Gives the block a shareable link,
-#            e.g. /mhydro/#2026-11-20-landslide-runout-and-river-connections-in-nepal
+#            e.g. /#2026-11-20-landslide-runout-and-river-connections-in-nepal
 #            Blocks without a date get a link from the title alone.
 #   lead:    optional one-line text under the heading
 #
@@ -40,11 +40,11 @@
     - kind: video
       src: /img/simulations/langtang-2026.mp4
       poster: /img/simulations/langtang-2026.jpg
-      caption: '<a href="/mhydro/blog/2026/08/28/langtang-reconstruction.html">Preliminary reconstruction</a> of the rock-ice avalanche and flood'
+      caption: '<a href="/blog/2026/08/28/langtang-reconstruction.html">Preliminary reconstruction</a> of the rock-ice avalanche and flood'
     - kind: video
       src: /img/media/fox-weather-2026.mp4
       poster: /img/media/fox-weather-2026.jpg
-      caption: 'Kshitij Dahal on <a href="/mhydro/blog/2026/08/26/langtang-fox-weather.html">FOX Weather</a>'
+      caption: 'Kshitij Dahal on <a href="/blog/2026/08/26/langtang-fox-weather.html">FOX Weather</a>'
     - src: /img/media/science-news-2026.jpg
       link: https://www.sciencenews.org/article/flood-nepal-prepare-disaster-climate
       caption: '<a href="https://www.sciencenews.org/article/flood-nepal-prepare-disaster-climate">Could Nepal avert the next disaster?</a> <i>Science News</i>'

@@ -1,8 +1,8 @@
-name: Mountain Hydrology Group
+name: Living Mountains Lab
 description: >
-  An independent research collective advancing hydrology and natural-hazard
-  science for mountain regions.
-url: https://geokshitij.github.io
+  Living Mountains Lab. Observing, modeling and forecasting a changing
+  mountain world.
+url: https://livingmountains.github.io
 
 exclude: [README.md, PHOTOS-NEEDED.md, scripts]
 
@@ -18,10 +18,11 @@ roles:
 front_page_news: 8
 
 # Base pathname for links.
-# For a project page at https://geokshitij.github.io/mhydro
-# this must be '/mhydro'. If you later move the site to an
+# The site is the organization page https://livingmountains.github.io,
+# so the base is empty. (It was '/mhydro' at geokshitij.github.io/mhydro.)
+# If you later move the site to an
 # organization root (e.g. https://mountainhydrology.github.io), set this to ''.
-base: '/mhydro'
+base: ''
 
 # make pages for the _projects folder
 collections:
