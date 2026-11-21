@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "2026 Langtang event preliminary reconstruction"
+title: "2026 Langtang Disaster: preliminary reconstruction"
 icon: play-circle
 ---
 
-We reproduced the 26 August 2026 Langtang event in physics-based
+We reproduced the 26 August 2026 Langtang Disaster on the China–Nepal border in physics-based
 simulations. In this preliminary reconstruction the avalanche races down the
 gorge at over 150 km/h, and the flood it fed reaches Timure and Syabrubesi in
 about fourteen minutes at roughly 40 km/h.
