@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2026 Langtang Disaster: preliminary reconstruction"
+title: "Preliminary reconstruction of the 2026 Langtang Disaster"
 icon: play-circle
 ---
 
