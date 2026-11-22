@@ -142,3 +142,10 @@ manish-gouli:
     image: /img/people/manish-gouli.jpg
     linkedin: "https://www.linkedin.com/in/manish-raj-gouli-219a45148"
     scholar: "https://scholar.google.com/citations?user=nx1_IpIAAAAJ"
+
+bibek-giri:
+    display_name: "Bibek Giri"
+    role: member
+    bio: "Freeport-McMoRan, USA"
+    image: /img/people/bibek-giri.jpg
+    linkedin: "https://www.linkedin.com/in/bibek-giri-132532100/"

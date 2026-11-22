@@ -16,6 +16,7 @@ people:
   - abinash-silwal
   - shikshita-bhandari
   - yogesh-bhattarai
+  - bibek-giri
 icon: exclamation-triangle
 image: /img/research/hazards.jpg
 layout: project
